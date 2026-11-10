@@ -1,0 +1,8 @@
+# Versions the White Cap run used (Python 3.12).
+torch==2.14.1
+torchvision==0.29.1
+numpy==2.5.4
+scipy==1.18.1
+pillow==13.0.0
+matplotlib==3.11.2
+opencv-python-headless==5.0.0.93

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.DS_Store
+# images and run outputs are not kept in the repo
+data/
+results/
+*.bmp
+*.jpg
+*.jpeg
+*.png
+*.npz
